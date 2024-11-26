@@ -1,0 +1,47 @@
+.one{
+    height: 30px;
+    background-color: brown;
+ width: min(100%,50px) ;
+}
+.two{
+    height: 30px;
+    background-color: brown;
+ width: min(100%,50px) ;
+ margin-left: 30rem;
+}
+header{
+    display: flex;
+    flex-direction: row;
+
+}
+body{
+    background-color: bisque;
+}
+.three{
+    height: 50px;
+    background-color: brown;
+ width: 100px ;
+ margin: 9rem;
+ justify-content: center;
+ padding-right: 2rem;
+ padding-left: 2rem;
+}
+.four{
+
+    height: 30px;
+    background-color: brown;
+    width: min(100%,50px) ; 
+
+}
+.five{
+    height: 30px;
+    background-color: brown;
+ width: min(100%,50px) ;
+ margin-left: 30rem;
+ }
+@media screen and (max-width:800px){
+.container
+{
+    background-color: blanchedalmond ;   
+  
+}}
